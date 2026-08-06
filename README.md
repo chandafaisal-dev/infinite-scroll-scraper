@@ -21,7 +21,7 @@ infinite_scroll_products.csv
 
 ## Screenshot
 
-![Output](quotes_infinite_scroll.csv)
+![Output](infinite scroll.png)
 
 ## How to Run
 
